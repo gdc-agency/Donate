@@ -216,7 +216,7 @@ const Footer2 = () => {
         <div className="container">
           <div className="footer-bottom-wrapper d-flex align-items-center justify-content-between">
             <p className="wow fadeInLeft" data-wow-delay=".3s">
-              © Copyright 2024 <Link href="/">Danbox</Link>. All Rights
+              © Copyright 2026 <Link href="https://www.globaldigitalcare.pk">Global Digital Care </Link>. All Rights
               Reserved.
             </p>
             <div className="card-image wow fadeInRight" data-wow-delay=".5s">
