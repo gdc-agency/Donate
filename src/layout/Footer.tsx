@@ -130,7 +130,7 @@ const Footer1 = () => {
         <div className="container">
           <div className="footer-wrapper">
             <p className="wow fadeInUp text-center" data-wow-delay=".3s">
-              © <Link href="/">Danbox</Link> Charity Trust - 2024. All rights
+              © <Link href="https://www.globaldigitalcare.pk">Global Digital Care </Link> Charity Trust - 2026. All rights
               reserved.
             </p>
           </div>
@@ -334,7 +334,7 @@ const Footer3 = () => {
         <div className="container">
           <div className="footer-wrapper">
             <p className="wow fadeInUp text-center" data-wow-delay=".3s">
-              © <Link href="/">Danbox</Link> Charity Trust - 2024. All rights
+              © <Link href="https://www.globaldigitalcare.pk">Global Digital Care </Link> Charity Trust - 2026. All rights
               reserved.
             </p>
           </div>
@@ -522,7 +522,7 @@ const Footer4 = () => {
           <div className="container">
             <div className="footer-wrapper">
               <p className="wow fadeInUp text-center" data-wow-delay=".3s">
-                © <Link href="/">Danbox</Link> Charity Trust - 2024. All rights
+                © <Link href="https://www.globaldigitalcare.pk">Global Digital Care</Link> Charity Trust - 2026. All rights
                 reserved.
               </p>
             </div>
